@@ -74,4 +74,4 @@ One thing that needs changing is the `reacherpath` definition early in the noteb
 
 ## Report
 
-Please see the [`report.md`](report.md) for a discussion of the algorithm and model, and results of running the experiment.
+Please see the [`Report.pdf`](Report.pdf) for a discussion of the algorithm and model, and results of running the experiment.
